@@ -13,7 +13,7 @@ A lightweight, responsive web app that allows users to search and view real-time
 
 > **Hosted on AWS S3**  
 > 🔗 [http://weather-app-v1.0.s3-website-us-east-1.amazonaws.com](#)  
-> *(Replace with your actual S3 endpoint)*
+
 
 ---
 
